@@ -1,0 +1,5 @@
+VENDOR SECURITY AGREEMENT
+
+Third-party vendors must follow the organization's information
+security procedures. Vendor access to internal systems must be
+approved and reviewed by the appropriate department.

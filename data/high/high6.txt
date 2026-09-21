@@ -1,0 +1,5 @@
+CUSTOMER DATA EXPOSURE
+
+A technical incident resulted in possible exposure of customer
+records. The organization is investigating the incident and
+assessing potential regulatory reporting obligations.

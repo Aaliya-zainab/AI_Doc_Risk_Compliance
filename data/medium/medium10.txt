@@ -1,0 +1,5 @@
+THIRD PARTY DATA PROCESSING POLICY
+
+External service providers processing company information must
+follow contractual privacy and security requirements. Their
+access should be monitored by the organization.

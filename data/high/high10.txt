@@ -1,0 +1,6 @@
+CRITICAL COMPLIANCE INCIDENT
+
+An internal investigation discovered serious non-compliance
+with organizational requirements. The issue involves unauthorized
+access and possible disclosure of protected information.
+Immediate action is required.

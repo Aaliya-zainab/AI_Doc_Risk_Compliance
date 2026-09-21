@@ -1,0 +1,5 @@
+SECURITY INCIDENT REPORT
+
+An unauthorized user gained access to an internal business
+system. Sensitive information may have been exposed and
+the security team has initiated an incident investigation.

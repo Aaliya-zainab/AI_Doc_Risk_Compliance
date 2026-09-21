@@ -1,0 +1,5 @@
+INTERNAL INFORMATION SECURITY POLICY
+
+Employees should use strong passwords and follow approved
+security procedures. Suspicious activities should be reported
+to the security team for further investigation.

@@ -1,0 +1,5 @@
+SYSTEM ACCESS POLICY
+
+Employees are provided system access based on their job
+responsibilities. Access permissions should be reviewed
+periodically and removed when they are no longer required.

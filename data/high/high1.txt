@@ -1,0 +1,5 @@
+DATA BREACH INCIDENT
+
+The organization identified unauthorized access to customer
+information. The incident may violate data protection requirements
+and requires immediate compliance investigation.

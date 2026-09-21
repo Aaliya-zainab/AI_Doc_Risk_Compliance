@@ -1,0 +1,5 @@
+CONFIDENTIAL DATA BREACH
+
+Sensitive business information was accessed without authorization.
+The incident may result in legal exposure, compliance concerns
+and significant business consequences.

@@ -1,0 +1,5 @@
+RECORD RETENTION POLICY
+
+Business records should be retained according to the company's
+record management procedures. Employees should not delete
+confidential records without proper authorization.

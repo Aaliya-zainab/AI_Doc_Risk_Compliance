@@ -1,0 +1,5 @@
+EMPLOYEE DATA HANDLING POLICY
+
+Employees may access personal information only when required
+for authorized business activities. Personal information must
+not be shared with unauthorized employees or external parties.

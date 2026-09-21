@@ -1,0 +1,5 @@
+UNAUTHORIZED INFORMATION DISCLOSURE
+
+Confidential customer information was disclosed to an
+unauthorized external party. The incident may create legal
+and regulatory consequences for the organization.
